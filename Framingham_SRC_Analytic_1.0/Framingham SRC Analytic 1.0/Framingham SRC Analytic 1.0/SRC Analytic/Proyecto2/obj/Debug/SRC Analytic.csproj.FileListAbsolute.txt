@@ -1,0 +1,8 @@
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\obj\Debug\SRC Analytic.csproj.AssemblyReference.cache
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\obj\Debug\SRC Analytic.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\obj\Debug\SRC Analytic.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\gamer\Downloads\Framingham SRC Analytic 1.0\Framingham SRC Analytic 1.0\SRC Analytic\Proyecto2\obj\Debug\Proyecto2.pdb
